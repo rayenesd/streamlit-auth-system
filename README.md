@@ -1,4 +1,4 @@
-Streamlit Login & OTP App
+#Streamlit Login & OTP App
 
 A simple Streamlit app for user signup and login with OTP email verification.
 The app allows users to:
@@ -78,3 +78,4 @@ This project is licensed under the MIT License.
 If you want, I can also write a short requirements.txt for this project so anyone can install all dependencies in one command.
 
 Do you want me to do that?
+
